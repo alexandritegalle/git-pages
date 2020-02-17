@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Pawan Git Hub Pages.
+          Pawan Git Hub Pages V2.
         </p>
         <a
           className="App-link"
